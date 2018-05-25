@@ -13,3 +13,5 @@ Use command "Python NMT train" to train the model, save the model in a folder na
 Use command "Python NMT test" to test the model. This command will (1) load data from (tst2012.en or tst2013.en) to translate sentences; and (2) will calculate BLEU score (https://www.nltk.org/_modules/nltk/translate/bleu_score.html) with smoothing method1. 
 
 Use command "Python NMT translate" run the translate function. Given a sentence, this model will be able to translate it into the corresponding language. 
+
+Sample code found at: https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/assignments/chatbot
