@@ -1,5 +1,6 @@
 # Neural-Machine-Translation
 The goals:
+
 •	To understand the steps to train/test the model for natural language processing.
 
 •	Understand architecture of RNN and how to connect each layer together by using TensorFlow.
